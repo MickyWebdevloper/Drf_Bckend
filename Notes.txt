@@ -1,0 +1,2 @@
+This project is for drf and nuxt3 project
+1. code-w-hr ( blog, courses )
